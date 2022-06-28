@@ -1,2 +1,2 @@
-# Newsaholic
+# NewsByte
 News app
